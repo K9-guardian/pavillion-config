@@ -1,0 +1,9 @@
+- b43-firmware from rpm fusion nonfree tainted
+- weathr + backlight crontab setup
+- tailscale
+
+- containers
+  - caddy
+  - forgejo under caddy
+  - webserver under caddy
+  - tailscale funnel into caddy
