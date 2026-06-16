@@ -1,6 +1,5 @@
 - b43-firmware from rpm fusion nonfree tainted
 - weathr + backlight crontab setup
-- tailscale
 
 - containers
   - caddy
