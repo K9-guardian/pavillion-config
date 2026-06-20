@@ -1,1 +1,3 @@
+tailscale_dir: "/etc/tailscale"
+
 pavillion_tailscale_tags: ["pavillion-dv9500"]
